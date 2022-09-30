@@ -1,4 +1,4 @@
-public class Q1929_Concatenation_of_Array {
+public class Q1929_ConcatenationOfArray {
 
     public int[] getConcatenation(int[] nums) {
         int[] arr = new int[nums.length*2];
