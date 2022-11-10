@@ -1,2 +1,4 @@
 # Leetcode
-Leetcode questions I've worked on and my approach to solving those questions.
+My approaches to solving the following Leetcode questions
+
+Language Utilized: Java
