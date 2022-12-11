@@ -1,3 +1,5 @@
+package top_interview_questions;
+
 public class Q1_TwoSum {
 
     // Brute force
